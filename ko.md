@@ -1,16 +1,16 @@
 # 디자이너의 윤리 강령
 
 
-* [디자이너는 무엇보다도 가장 먼저 인간이어야 한다.](#a-designer-is-first-and-foremost-a-human-being)
-* [디자이너는 세상에 내놓는 작업물에 대한 책임이 있다.](#a-designer-is-responsible-for-the-work-they-put-into-the-world)
-* [디자이너는 형태보다 영향을 중시한다.](#a-designer-values-impact-over-form)
-* [디자이너는 고용주에게 노동만을 제공하는 것이 아니며, 고문으로서의 역할을 수행한다.](#a-designer-owes-the-people-who-hire-them-not-just-their-labor-but-their-counsel)
-* [디자이너는 비평을 환영한다.](#a-designer-welcomes-criticism)
-* [디자이너는 사용자에 대해서 더 잘 알기 위해 노력한다.](#a-designer-strives-to-know-their-audience)
-* [디자이너는 엣지 케이스를 믿지 않는다.](#a-designer-does-not-believe-in-edge-cases)
-* [디자이너는 전문성을 가진 커뮤니티에 속한다.](#a-designer-is-part-of-a-professional-community)
-* [디자이너는 경쟁력있는 다양한 분야의 경험을 환영한다.](#a-designer-welcomes-a-diverse-and-competitive-field)
-* [디자이너는 자기 반성을 위한 시간을 가진다.](#a-designer-takes-time-for-self-reflection)
+* [디자이너는 무엇보다도 가장 먼저 인간이어야 한다.]
+* [디자이너는 세상에 내놓는 작업물에 대한 책임이 있다.]
+* [디자이너는 형태보다 영향을 중시한다.]
+* [디자이너는 고용주에게 노동만을 제공하는 것이 아니며, 고문으로서의 역할을 수행한다.]
+* [디자이너는 비평을 환영한다.]
+* [디자이너는 사용자에 대해서 더 잘 알기 위해 노력한다.]
+* [디자이너는 엣지 케이스를 믿지 않는다.]
+* [디자이너는 전문성을 가진 커뮤니티에 속한다.]
+* [디자이너는 경쟁력있는 다양한 분야의 경험을 환영한다.]
+* [디자이너는 자기 반성을 위한 시간을 가진다.]
 
 
 ***
@@ -19,11 +19,11 @@
 
 ### 디자이너는 무엇보다도 가장 먼저 인간이어야 한다.
 
-Before you are a designer, you are a human being. Like every other human being on the planet, you are part of the social contract. We share a planet. By choosing to be a designer you are choosing to impact the people who come in contact with your work, you can either help or hurt them with your actions. The effect of what you put into the fabric of society should always be a key consideration in your work.
+당신은 디자이너이기 이전에, 인간이다. 지구상의 다른 인간들과 같이 당신은 사회적 계약의 일부분을 수행하고 있다. 우리는 지구를 함께 공유하고 있다. 디자이너의 길을 선택함으로서 당신은 당신의 작업과 관련이 있는 사람들에게 영향을 미치게 되며, 당신의 행동으로 인해 사람들을 도울 수도, 다치게 할 수도 있다. 당신이 사회에 내놓은 작업의 결과가 어떠한지를 가장 중요하게 고려해야 한다. 
 
-Every human being on this planet is obligated to do our best to leave this planet in better shape than we found it. Designers don’t get to opt out.
+지구상의 모든 인간은 우리가 지구를 물려받았을 때보다도 더 나은 상태로 남겨둘 의무가 있다. 디자이너는 포기하지 않는다.
 
-When you do work that depends on a need for income disparity or class distinctions to succeed you are failing your job as a citizen, and therefore as a designer.
+당신이 소득 불평등이나 사회 계급이 존재해야면 성공할 수 있는 일을 하고 있다면 당신은 시민으로서, 또 디자이너로서도 실패한 것이다.
 
 
 ### 디자이너는 세상에 내놓는 작업물에 대한 책임이 있다.
